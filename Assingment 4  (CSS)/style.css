@@ -1,0 +1,30 @@
+h1{
+    background-color: aqua;
+}
+.ef{
+    width:45px;
+    height:35px ;
+    position: absolute;
+    top: 25px;
+    right: 15px;
+}
+.cd{
+    width: 35px;
+    height:35px;
+    position: absolute;
+    top: 20px;
+    left: 94%;
+}
+.ab{
+    width: 40px;
+    height: 30px;
+    position: absolute;
+    top: 25px;
+    left: 91%;
+}
+.gh{
+    width: 50px;
+    position:fixed;
+    bottom: 50px;
+    right: 20px;
+}
